@@ -1,6 +1,10 @@
-# CX 产品全貌
+# CX 产品文档
 
 [在线阅读产品文档](https://yananliu259-coder.github.io/cx-product-map/)
+
+[全产品预览（模拟）](https://www.figma.com/proto/kLidtlg6DvuSM9u1D6F6rm/CX?page-id=1970%3A85593&node-id=2624-6427&starting-point-node-id=2624%3A6427&content-scaling=responsive&hide-ui=1) · [UI 组件分类目录](https://www.figma.com/design/kLidtlg6DvuSM9u1D6F6rm?node-id=3956-4463)
+
+2026-11-19：产品文档已补充完整播放起点、15 类组件链接和复用说明；功能目录原编号和历史验证状态保持不变。
 
 ## 以后怎样更新
 
