@@ -4,7 +4,7 @@
 
 [全产品预览（模拟）](https://www.figma.com/proto/kLidtlg6DvuSM9u1D6F6rm/CX?page-id=1970%3A85593&node-id=2624-6427&starting-point-node-id=2624%3A6427&content-scaling=responsive&hide-ui=1) · [UI 组件分类目录](https://www.figma.com/design/kLidtlg6DvuSM9u1D6F6rm?node-id=3956-4463)
 
-2026-11-19：产品文档已补充完整播放起点、15 类组件链接和复用说明；功能目录原编号和历史验证状态保持不变。
+2026-11-20：产品文档新增代码与设计资产入口，分别说明 UI 原稿、UX 原稿、UIUX 组件归纳、UI Component／Instance、UX Component／Instance；UX 独立实例区待补充。组件分类按 Component 和 Instance 对照；功能编号与历史验收状态保持不变。
 
 ## 以后怎样更新
 
