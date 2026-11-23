@@ -118,8 +118,11 @@
   },
   "release": {
     "tag": null,
-    "url": null,
-    "published": false
+    "url": "https://github.com/yananliu259-coder/cx-product-map/releases/tag/untagged-33256704738f2a13a1ec",
+    "published": false,
+    "draft": true,
+    "draft_id": 455103786,
+    "planned_tag": "V1"
   },
   "package": {
     "name": "CX-V1-资料包.zip",
