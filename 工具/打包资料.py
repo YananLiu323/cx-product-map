@@ -22,7 +22,7 @@ def main():
         raise SystemExit('参考目录不完整：需要 cx-ref/ 和 package.json')
     output = root / '交付包'
     output.mkdir(exist_ok=True)
-    target = output / f'CX-{args.version}-资料包.zip'
+    target = output / f'CX-{args.version}.zip'
     if target.exists():
         raise SystemExit('同名资料包已存在，停止，避免覆盖')
     sources = sorted(p for p in ref.rglob('*') if p.is_file())

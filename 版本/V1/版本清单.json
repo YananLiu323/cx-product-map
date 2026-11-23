@@ -125,12 +125,16 @@
     "planned_tag": "V1"
   },
   "package": {
-    "name": "CX-V1-资料包.zip",
+    "name": "CX-V1.zip",
     "generated": true,
     "contains_fig": false,
-    "sha256_file": "CX-V1-资料包.zip.sha256",
+    "sha256_file": "SHA256SUMS.txt",
     "status": "已有资料包；不含完整 Figma 归档",
-    "upload_status": "待用户确认参考资源公开外传范围；尚未上传"
+    "upload_status": "已上传至 V1 草稿；需仓库维护权限查看",
+    "asset_id": 781988950,
+    "bytes": 265100124,
+    "sha256": "72ad9f937248297eddd6494699db340bf8746afd391975190dec429e9469cb26",
+    "public_upload_authorized": true
   },
   "missing_list": "缺失清单.md"
 }

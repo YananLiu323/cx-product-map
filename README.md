@@ -15,7 +15,7 @@
 
 现有资料已建立独立目录；完整 `.fig`、阶段 Figma 副本与恢复验证尚待补齐。**V1 当前为资料整理版，尚未达到完整可恢复归档标准。**
 
-[进入 V1 全部资料](版本/V1/README.md) · [先看缺失清单](版本/V1/缺失清单.md) · [V1 发布草稿（资料包待上传确认）](https://github.com/yananliu259-coder/cx-product-map/releases)
+[进入 V1 全部资料](版本/V1/README.md) · [先看缺失清单](版本/V1/缺失清单.md) · [V1 资料包（发布草稿，需维护权限）](https://github.com/yananliu259-coder/cx-product-map/releases)
 
 ## 历史版本
 
