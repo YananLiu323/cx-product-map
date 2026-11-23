@@ -1,0 +1,132 @@
+{
+  "version": "V1",
+  "title": "CX 产品复现",
+  "prepared_date": "2026-11-23",
+  "status": "资料整理版；完整设计归档待补齐",
+  "repository": "https://github.com/yananliu259-coder/cx-product-map",
+  "baseline_commit": "9767b0af3410653da9d97fd4abc8e2f6e21b2c22",
+  "original_files": [
+    {
+      "path": "原有文件/.github/workflows/publish.yml",
+      "sha256": "c37759fc9259bf1c88a4e098e93f8080419302bc964fbbf11fe35f4946ea6f6c",
+      "bytes": 1286
+    },
+    {
+      "path": "原有文件/.nojekyll",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "原有文件/01产品结构图.svg",
+      "sha256": "ed3436a509f135c464de2a8d053e13e7019c249106d47f535ef478d887db3041",
+      "bytes": 5757
+    },
+    {
+      "path": "原有文件/02业务对象关系图.svg",
+      "sha256": "db0aea4b2de96d4a0f1761759ac9603680ab5f4ed37ba24ba1ffab7cbbf6997a",
+      "bytes": 5009
+    },
+    {
+      "path": "原有文件/03对话主流程.svg",
+      "sha256": "42f91ccf16eb7824fb556df0cabe1a5a616b34f9bce692915ec83e1e39d9249f",
+      "bytes": 4662
+    },
+    {
+      "path": "原有文件/04项目上下文流程.svg",
+      "sha256": "9cd4ee5625ddd7c1150ef3c2ffcd0db5378f4718e3dbb4b32baab357a547d850",
+      "bytes": 4669
+    },
+    {
+      "path": "原有文件/05工作区交接流程.svg",
+      "sha256": "b0c2dcece6344c4c2d5a76af82e9ae8a61d7df06095c1fb1349d3c26acfd4aeb",
+      "bytes": 4717
+    },
+    {
+      "path": "原有文件/06产物迭代流程.svg",
+      "sha256": "de8bb79bae11a61c17581b780fa93b27ce6f7f3ea14773a8b84c232b9ccde1cc",
+      "bytes": 4715
+    },
+    {
+      "path": "原有文件/07定时任务流程.svg",
+      "sha256": "23797dc4dda6941a0ba90f35dae15be98b754964c7d996c9912184757c9f6108",
+      "bytes": 4624
+    },
+    {
+      "path": "原有文件/08产品总流程.svg",
+      "sha256": "91e1c9bd911b9ea3d7bf13df355384e935503ce85b0d33b7fdc69344d45c03ec",
+      "bytes": 4068
+    },
+    {
+      "path": "原有文件/README.md",
+      "sha256": "8bdf9abcc676eb1a179b284c8724f6e9a689ab0bc81454233840e55f169e5623",
+      "bytes": 2216
+    },
+    {
+      "path": "原有文件/build_site.py",
+      "sha256": "24bf88c702fc8601afa91edee57520d854912288a5bf4379b28008f4741e9e8a",
+      "bytes": 7351
+    },
+    {
+      "path": "原有文件/index.html",
+      "sha256": "2d331cf5ff21ceee2d574d9cbd9796e373d38f0708084e549809dd8d8ce43234",
+      "bytes": 124020
+    },
+    {
+      "path": "原有文件/requirements.txt",
+      "sha256": "8edae1af85508a7148954004426c5679379d806fdb3597475a07706360936766",
+      "bytes": 17
+    },
+    {
+      "path": "原有文件/site_template.html",
+      "sha256": "22e264e07c5327d899639522419191ad75f78ebc3f26d584107cac55063e54f3",
+      "bytes": 3762
+    },
+    {
+      "path": "原有文件/test_build_site.py",
+      "sha256": "3af5f86e30ee911fbaa3ff26999bcf0080b3c5256edd9e8bd0292581c14b9e53",
+      "bytes": 3571
+    },
+    {
+      "path": "原有文件/产品全貌.md",
+      "sha256": "8a01e8e28ec8a5cd59d6233d365015f06f07435d7aadeb97200e4f94d89936f7",
+      "bytes": 80820
+    },
+    {
+      "path": "原有文件/功能目录.csv",
+      "sha256": "28bd2d3456882d9fddd72f18bf4f7885339f4c3e6821a2815b710f2d0c19a15c",
+      "bytes": 29515
+    }
+  ],
+  "figma": {
+    "working_file_key": "kLidtlg6DvuSM9u1D6F6rm",
+    "frozen_file_url": null,
+    "fig_file": null,
+    "restore_verified": false,
+    "links_frozen": false
+  },
+  "source_archive": {
+    "scope": [
+      "cx-ref/",
+      "package.json"
+    ],
+    "complete_source": false,
+    "remote_commit_verified": false,
+    "local_capture": true,
+    "file_count": 20466,
+    "bytes": 617642974,
+    "inventory": "代码/参考文件清单.json"
+  },
+  "release": {
+    "tag": null,
+    "url": null,
+    "published": false
+  },
+  "package": {
+    "name": "CX-V1-资料包.zip",
+    "generated": true,
+    "contains_fig": false,
+    "sha256_file": "CX-V1-资料包.zip.sha256",
+    "status": "已有资料包；不含完整 Figma 归档"
+  },
+  "missing_list": "缺失清单.md"
+}
