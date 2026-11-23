@@ -118,7 +118,7 @@
   },
   "release": {
     "tag": null,
-    "url": "https://github.com/yananliu259-coder/cx-product-map/releases/tag/untagged-33256704738f2a13a1ec",
+    "url": "https://github.com/yananliu259-coder/cx-product-map/releases",
     "published": false,
     "draft": true,
     "draft_id": 455103786,
@@ -129,7 +129,8 @@
     "generated": true,
     "contains_fig": false,
     "sha256_file": "CX-V1-资料包.zip.sha256",
-    "status": "已有资料包；不含完整 Figma 归档"
+    "status": "已有资料包；不含完整 Figma 归档",
+    "upload_status": "待用户确认参考资源公开外传范围；尚未上传"
   },
   "missing_list": "缺失清单.md"
 }
